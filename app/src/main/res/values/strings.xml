@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">TourGuideUSA</string>
+
+    <!-- Text for the button on the main_activity -->
+    <string name="main_activity">USA traveling \n Activities</string>
+
+    <!-- Category name for the Inn -->
+    <string name="inn">Inn</string>
+    <!-- Descritpion of the first Inn category -->
+    <string name="everest_restaurant">Restaurant name: Everest \n Chef: J. Joho \n Location: Chicago, Illinois \n Description: At Everest, which holds one Michelin star, guests can choose between the seven-course degustation menu, the seven-course vegetarian menu, or three- and four-course prix-fixe menus.</string>
+    <string name="jungsik_restaurant">Restaurant name: Jungsik \n Chef: Jungsik Yim \n Location: New York, New York \n Description: Dubbed "New Korean" by proprietor and executive chef Jungsik Yim, this eponymous restaurant puts a modern and sophisticated spin on traditional Korean fare.</string>
+    <string name="gotham_bar_and_grill_restaurant">Restaurant name: Gotham bar and grill \n Chef: Alfred Portale \n Location: New York, New York \n Description: For over 30 years, Gotham Bar and Grill has brought the liveliness of a Paris brasserie to New Yorks storied West Village.</string>
+    <string name="spotted_pig_restaurant">Restaurant name: Spotted pig restaurant \n Chef: April Bloomfield \n Location: New York, New York \n Description: A trip to The Spotted Pig isnt complete without trying Chef April Bloomfields famous char-grilled burger, topped with Roquefort cheese and served with a pile of delicate shoestring fries.</string>
+    <string name="eleven_madison_park_restaurant">Restaurant name: Eleven madison park restaurant \n Chef: Daniel Humm, Chris Flint (chef de cuisine) \n Location: New York, New York \n Description: The restaurant offers only an elaborate prix-fixe menu from chef de cuisine Chris Flint, which goes for $295 per person.</string>
+
+
+    <!-- Category name for the stadiums -->
+    <string name="stadiums">Stadiums</string>
+    <!-- Descritpion of the first Stadiums category -->
+    <string name="att_stadium">Stadium name: ATT Stadium \n Capacity: 80.000 \n Description: Arlington, Texas may not be the first on your list for traveling destinations but if youre a serious sports fan, it probably should be. Opened in 2009, ATT Stadium is the proud home of the NFL’s Dallas Cowboys !</string>
+    <string name="lucas_oil_stadium">Stadium name: Lucas Oil Stadium \n Capacity: 70.000 \n Description: he still very new Lucas Oil Stadium in Indianapolis, Indiana gives fans a great experience. Home to the NFL’s Indianapolis Colts, Lucas Oil replaced the RCA Dome in 2008 and consequently utilizes the best modern technology and engineering techniques to create an amazing stadium. </string>
+    <string name="century_link_field_stadium">Stadium name: Century Link Field Stadium \n Capacity: 67.000 \n Description: This massive stadium located in Seattle, Washington opened in 2002 and is home to the NFL’s 2014 defending Super Bowl Champions the Seattle Seahawks as well as the Seattle Sounders FC of Major League Soccer.  </string>
+    <string name="ever_bank_field_stadium">Stadium name: Ever Bank Field Stadium \n Capacity: 67.264 \n Description: EverBank Field in Jacksonville, Florida is home to the NFLs Jacksonville Jaguars and has had a long history since it opened in 1995. </string>
+    <string name="fenway_park_stadium">Stadium name: Fenway Park Stadium \n Capacity: 37.949 \n Description: If you are a traveler who loves to experience the true local vibe and feel of the place you are visiting then Fenway Park, home of the Boston Red Sox, is definitely somewhere to go while in Boston, Massachusetts.</string>
+
+
+    <!-- Category name for the Museums -->
+    <string name="museums">Museums</string>
+    <!-- Descritpion of the first Museums category -->
+    <string name="getty_center_museum">Museum name: Getty Center \n Location: Los Angeles \n Description: The Getty adventure begins even before you ascend to its lofty perch atop a mountain - a driverless tram takes you there. Once in the main complex of buildings, must-sees include Van Gogh’s Irises, Rembrandt’s Old Man in Military Costume.</string>
+    <string name="metropolitan_museum_of_art">Museum name: Metropolitan museum of art \n Location: New York \n Description: TripAdvisor’s top museum in the world for two years now, the Metropolitan Museum of Art is America’s largest, as TripAdvisor says, “home to more than two million works that span more than two million square feet”. </string>
+    <string name="national_wwii_museum">Museum name: National WII museum \n Location: New Orleans \n Description: Go see the French Quarter, eat your beignets and listen to some jazz, but do not miss this expansive, six-acre museum opened in 2000 (it’s in a former factory for the boats used in the D-Day invasion).</string>
+    <string name="american_museum_of_national_history">Museum name: American museum of national history \n Location: New York \n Description: For generations of New Yorkers their first museum memory probably involved ogling the dinosaurs here, and nearly a century and a half after its founding (in 1869), the museum continues to inspire in halls covering biodiversity, mammals, the environment, birds, reptiles, amphibians, human origins and cultures, all the way to planetary science. </string>
+    <string name="uss_midway_museum">Museum name: USS midway museum \n Location: San Diego California \n Description: From 1945 to the First Gulf War on 1991, the USS Midway was one of America’s longest-serving aircraft carriers. Now from its permanent home on San Diego Bay it houses more than 60 exhibits (war room to galley, sleeping quarters to brig) and 24-plus restored aircraft on its flight deck.</string>
+
+
+    <!-- Category name for the Must See -->
+    <string name="must_see">Must See</string>
+    <!-- Descritpion of the first Must See category -->
+    <string name="walt_disney_worlds_magic_kingdom">Name: Walt Disney worlds magic kingdom \n Location: Orlando, Florida \n Description: If anything encompasses the ethos of Disney Worlds Magic Kingdom, its the "Its a Small World" ride. That same tune represents a certain kind of American dream: one of a land comprising many cultures, welcoming to all.</string>
+    <string name="big_sur">Name: Big Sur \n Location: California \n Description: Unending wildflowers, soaring California condors, sea otters reclining in kelp beds, ancient forests—its no wonder Big Sur is a storied retreat for artists and writers.</string>
+    <string name="mount_rushmore">Name: Mount Rushmore \n Location: Keystone, South Dakota \n Description: Not only is Mount Rushmore stunning in terms of its sheer scale as a monumental mountainside edifice, its also perhaps the boldest embodiment of American ideals there is. </string>
+    <string name="grand_canyon">Name: Grand Canyon \n Location: Arizona \n Description: The Grand Canyon is an American icon in that it represents the expansive, larger-than-life ruggedness of the country. Volcanic features and soaring sandstone canyon walls make for awesome vistas, as well as a welcoming venue for year-round adventure.</string>
+    <string name="grand_prismatic_spring">Name: Grand prismatic spring \n Location: Yellowstone National Park, Wyoming \n Description: From above, the Grand Prismatic Spring looks like a giant aquamarine geode sunk into the earth. Its the largest hot spring in Yellowstone and the U.S., and the third largest in the world, at 370 feet in diameter and 121 feet deep.</string>
+
+</resources>

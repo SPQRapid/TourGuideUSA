@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/usa_flag"
+        style="@style/usa_flag" />
+
+    <TextView
+        android:id="@+id/text_button"
+        style="@style/main_text"
+        android:text="@string/main_activity" />
+
+    <ImageView
+        android:id="@+id/statue_liberty"
+        style="@style/statue_liberty" />
+
+</LinearLayout>

@@ -1,0 +1,68 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Base.Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- activity_main USA Flag ImageView -->
+    <style name="usa_flag">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">250dp</item>
+        <item name="android:scaleType">fitXY</item>
+    </style>
+
+    <!-- activity_main TextView   -->
+    <style name="main_text">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <!-- activity_main Statue Liberty ImageView -->
+    <style name="statue_liberty">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:scaleType">fitXY</item>
+    </style>
+
+    <!-- usa_list_item first  ImageView -->
+    <style name="first_image_category">
+        <item name="android:layout_width">170dp</item>
+        <item name="android:layout_height">170dp</item>
+        <item name="android:scaleType">fitCenter</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+    <!-- usa_list_item first TextView -->
+    <style name="first_text_category">
+        <item name="android:layout_width">170dp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:layout_height">170dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingLeft">7dp</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:textSize">10sp</item>
+    </style>
+
+    <!-- TabLayout -->
+    <style name="tab_layout">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@android:color/white</item>
+    </style>
+
+    <!-- ViewPager -->
+    <style name="view_pager">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">@android:color/white</item>
+    </style>
+
+</resources>

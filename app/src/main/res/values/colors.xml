@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="colorPrimary">#D50000</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="colorPrimaryDark">#303F9F</color>
+
+    <!-- Color of the app when you select a tab layout -->
+    <color name="colorAccent">#D50000</color>
+
+    <!-- Background for the Inn activity  -->
+    <color name="inn_background">#006064</color>
+
+    <!-- Background for the Inn activity  -->
+    <color name="stadiums_background">#006064</color>
+
+    <!-- Background for the Inn activity  -->
+    <color name="museums_background">#006064</color>
+
+    <!-- Background for the Inn activity  -->
+    <color name="must_see_background">#006064</color>
+</resources>
